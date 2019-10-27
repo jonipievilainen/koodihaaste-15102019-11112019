@@ -44,14 +44,6 @@ echo '<h1>Bullshit Array</h1>';
 print_r($bullshitStrings);
 echo '<pre>';
 
-// usort($arr, function ($a, $b) { return $b['validCounter'] - $a['validCounter']; });
-
-// echo '<pre>';
-// print_r($arr);
-// echo '<pre>';
-
-
-
 
 //-------------------------FUNCTIONS/-------------------------
 
